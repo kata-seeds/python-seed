@@ -1,12 +1,12 @@
-# [Kata Seeds](https://github.com/kata-seeds): Language (+ optionally a test framework)
-[![Build Status](https://travis-ci.org/kata-seeds/language-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/language-seed)
+# [Kata Seeds](https://github.com/kata-seeds): [Python](https://www.python.org)
+[![Build Status](https://travis-ci.org/kata-seeds/python-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/python-seed)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/language-seed.git
-    cd language-seed
+    git clone https://github.com/kata-seeds/python-seed.git
+    cd python-seed
 
 Install dependencies and run your tests with `make`:
 

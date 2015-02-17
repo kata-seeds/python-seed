@@ -1,11 +1,9 @@
 all: dependencies test
 
 test:
-	# TODO: Run the tests here
+	python *_test.py
 
 dependencies:
-	# TODO: Check to see if dependencies are satisfied, and install them if
-	# not. You can use the bash `||` operator to easily take action on a
-	# failure.
+	which python
 
 .PHONY: all dependencies test
