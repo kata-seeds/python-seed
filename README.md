@@ -1,4 +1,4 @@
-# [Kata Seeds](https://github.com/kata-seeds): [Python](https://www.python.org)
+# [Kata Seeds](http://kata-seeds.github.io): [Python](https://www.python.org)
 [![Build Status](https://travis-ci.org/kata-seeds/python-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/python-seed)
 
 ## Getting Started
